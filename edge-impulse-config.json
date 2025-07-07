@@ -1,0 +1,19 @@
+{
+    "host": "edgeimpulse.com",
+    "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjM3MjQ2NSwicGVybWlzc2lvbnMiOltdLCJpYXQiOjE3NTE3NjUwMDksImV4cCI6MTc1NDM1NzAwOX0.8yi8jqzX8Xse-_wXsegwANjvhoHrVo0tCZCukXtrwPc",
+    "lastVersionCheck": 1751764990123,
+    "dataForwarderDevices": {},
+    "daemonDevices": {},
+    "runner": {
+        "storagePath": "/home/juanpablogomez/.ei-linux-runner/storage",
+        "modelVariantsForProjectId": {
+            "731344": {
+                "variant": "int8"
+            }
+        },
+        "deploymentVersion": 8
+    },
+    "linuxProjectId": 731344,
+    "audio": "hw:3,0",
+    "camera": "HP Webcam 1300"
+}
