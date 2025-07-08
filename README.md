@@ -2,7 +2,8 @@
 Repositorio para los entregables del proyecto final de la asignatura Sistemas Operativos
 
 Integrantes:
-Juan Pablo Gómez López 
+Juan Pablo Gómez López
+Danilo Antonio Tovar Arias
 
 
 Enlace Video:
